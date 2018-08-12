@@ -1,0 +1,6 @@
+spring:
+    datasource:
+        jmx-enabled: true
+        password: mysecretpassword
+        url: jdbc:postgres://192.168.1.36/postgres
+        username: postgres
